@@ -2,5 +2,6 @@
   "subscription": {
     "min_amount": 4,
     "price" 0.13
-  }
+  },
+  "feature_flags": null
 }
